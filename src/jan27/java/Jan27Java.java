@@ -13,6 +13,12 @@ public class Jan27Java {
     /**
      * @param args the command line arguments
      */
+    
+    private String address;
+    private String studentNAme;
+    
+    
+    
     public static void main(String[] args) {
         // TODO code application logic here
     }
