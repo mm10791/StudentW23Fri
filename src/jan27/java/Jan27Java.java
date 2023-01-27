@@ -12,6 +12,7 @@ public class Jan27Java {
 
     /**
      * @param args the command line arguments
+     * added pull command
      */
     
     private String studentId;
