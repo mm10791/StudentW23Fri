@@ -15,9 +15,16 @@ public class Jan27Java {
      */
     
     private String address;
-    private String studentNAme;
+    private String studentName;
     
+    public studentW23Fri(String studentId, String studentName){
+        this.studentId = studentId;
+        this.studentName = studentName;
+    }
     
+    public String getAddress() {
+        this.address = address;
+    }
     
     public static void main(String[] args) {
         // TODO code application logic here
