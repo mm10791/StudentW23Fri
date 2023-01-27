@@ -5,7 +5,7 @@
 package jan27.java;
 
 /**
- * aaded date Jan 27 FETCH
+ * added date Jan 27 FETCH
  * @author Max Matthews
  */
 public class Jan27Java {
