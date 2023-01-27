@@ -14,10 +14,11 @@ public class Jan27Java {
      * @param args the command line arguments
      */
     
+    private String studentId;
     private String address;
     private String studentName;
     
-    public studentW23Fri(String studentId, String studentName){
+    public void studentW23Fri(String studentId, String studentName){
         this.studentId = studentId;
         this.studentName = studentName;
     }
