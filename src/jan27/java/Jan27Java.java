@@ -22,9 +22,13 @@ public class Jan27Java {
         this.studentId = studentId;
         this.studentName = studentName;
     }
-    
-    public String getAddress() {
+
+    public void setAddress(String address) {
         this.address = address;
+    }
+
+    public String getAddress() {
+        return address;
     }
     
     public static void main(String[] args) {
