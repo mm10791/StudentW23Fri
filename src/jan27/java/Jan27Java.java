@@ -5,14 +5,14 @@
 package jan27.java;
 
 /**
- *
+ * aaded date Jan 27 FETCH
  * @author Max Matthews
  */
 public class Jan27Java {
 
     /**
      * @param args the command line arguments
-     * added pull command
+     * added PULL command
      */
     
     private String studentId;
